@@ -7,6 +7,8 @@
 #### Module 1
 * [Arrays & Iteration (Hashketball)](https://www.youtube.com/watch?v=WzYLcmShd3E) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/01-hashketball-review)
 * [Hashes and the Internet](https://www.youtube.com/watch?v=z58mprn9Vk4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/02-hashes-and-the-internet)
+* [Intro to OO](https://www.youtube.com/watch?v=ScTVbtPcIkw) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/03-oo)
+* [OO One to Many](https://www.youtube.com/watch?v=l9QQ3Qrb0_Y) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/04-one-to-many)
 
 ## Blog Presentation Schedule
 
