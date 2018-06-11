@@ -9,7 +9,7 @@
 * [Hashes and the Internet](https://www.youtube.com/watch?v=z58mprn9Vk4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/02-hashes-and-the-internet)
 * [Intro to OO](https://www.youtube.com/watch?v=ScTVbtPcIkw) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/03-oo)
 * [OO One to Many](https://www.youtube.com/watch?v=l9QQ3Qrb0_Y) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/04-one-to-many)
-* [OO My Pets/ Inheritance VIDEO COMING SOON]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/06-oo-my-pets-inheritance)
+* [OO My Pets/ Inheritance](https://www.youtube.com/watch?v=8o-CS76T_9w) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/06-oo-my-pets-inheritance)
 
 ## Blog Presentation Schedule
 
