@@ -10,7 +10,7 @@
 * [Intro to OO](https://www.youtube.com/watch?v=ScTVbtPcIkw) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/03-oo)
 * [OO One to Many](https://www.youtube.com/watch?v=l9QQ3Qrb0_Y) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/04-one-to-many)
 * [OO My Pets/ Inheritance](https://www.youtube.com/watch?v=8o-CS76T_9w) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/06-oo-my-pets-inheritance)
-* [Intro to ActiveRecord VIDEO COMING SOON]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/08-intro-active-record)
+* [Intro to ActiveRecord Part 1](https://www.youtube.com/watch?v=LZ7IwbtqF9Q) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/08-intro-active-record)
 
 ## Blog Presentation Schedule
 
