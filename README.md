@@ -11,7 +11,7 @@
 * [OO One to Many](https://www.youtube.com/watch?v=l9QQ3Qrb0_Y) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/04-one-to-many)
 * [OO My Pets/ Inheritance](https://www.youtube.com/watch?v=8o-CS76T_9w) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/06-oo-my-pets-inheritance)
 * [Intro to ActiveRecord Part 1](https://www.youtube.com/watch?v=LZ7IwbtqF9Q) [Part 2](https://www.youtube.com/watch?v=9Gwm0m7TPck) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/08-intro-active-record)
-* [Active Record Associations]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/09-active-record-associations)
+* [Active Record Associations](https://www.youtube.com/watch?v=wP3D5mk8S7g) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/09-active-record-associations)
 
 ## Blog Presentation Schedule
 
