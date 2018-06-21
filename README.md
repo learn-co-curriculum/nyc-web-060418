@@ -12,6 +12,7 @@
 * [OO My Pets/ Inheritance](https://www.youtube.com/watch?v=8o-CS76T_9w) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/06-oo-my-pets-inheritance)
 * [Intro to ActiveRecord Part 1](https://www.youtube.com/watch?v=LZ7IwbtqF9Q) [Part 2](https://www.youtube.com/watch?v=9Gwm0m7TPck) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/08-intro-active-record)
 * [Active Record Associations](https://www.youtube.com/watch?v=wP3D5mk8S7g) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/09-active-record-associations)
+* [Intro to Test Driven Development]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/10-intro-tdd)
 
 ## Blog Presentation Schedule
 
