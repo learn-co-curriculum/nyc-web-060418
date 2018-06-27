@@ -14,6 +14,10 @@
 * [Active Record Associations](https://www.youtube.com/watch?v=wP3D5mk8S7g) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/09-active-record-associations)
 * [Intro to Test Driven Development](https://www.youtube.com/watch?v=7_uGTJrmT_4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/10-intro-tdd)
 
+#### Module 2
+* [Sinatra and MVC](https://youtu.be/NYpvhA_xNlo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/11-sinatra-mvc)
+* [Sinatra Forms and REST](https://youtu.be/q255Oxq1OOY) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/12-sinatra-forms-rest)
+
 ## Blog Presentation Schedule
 
 ## Additional Resources
