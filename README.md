@@ -15,11 +15,13 @@
 * [Intro to Test Driven Development](https://www.youtube.com/watch?v=7_uGTJrmT_4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/10-intro-tdd)
 
 #### Module 2
+* [Rack and the Internet](https://youtu.be/avvNNF5ILKM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/13-Rack-and-the-Internet)
 * [Sinatra and MVC](https://youtu.be/NYpvhA_xNlo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/11-sinatra-mvc)
 * [Sinatra Forms and REST](https://youtu.be/q255Oxq1OOY) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/12-sinatra-forms-rest)
-* [Rack and the Internet](https://youtu.be/avvNNF5ILKM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/13-Rack-and-the-Internet)
+* [Sinatra relationships](https://youtu.be/RzDSk3CRR5k) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/13-sinatra-forms-associated-objects)
 * [Intro to Rails](https://youtu.be/D6GQJO119Oc) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/14-Intro-to-Rails)
-* [Rest Test: Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/16-rest-test)
+* [Rails forms](https://youtu.be/OuISosooElo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/15-platypodes-tracker)
+* [Rest Test: Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/16-rest-test) | [Website](https://garbage-collectors-rest-test.herokuapp.com/)
 
 ## Blog Presentation Schedule
 
