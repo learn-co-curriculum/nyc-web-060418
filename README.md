@@ -19,6 +19,7 @@
 * [Sinatra Forms and REST](https://youtu.be/q255Oxq1OOY) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/12-sinatra-forms-rest)
 * [Rack and the Internet](https://youtu.be/avvNNF5ILKM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/13-Rack-and-the-Internet)
 * [Intro to Rails](https://youtu.be/D6GQJO119Oc) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/14-Intro-to-Rails)
+* [Rest Test: Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/16-rest-test)
 
 ## Blog Presentation Schedule
 
