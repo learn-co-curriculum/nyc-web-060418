@@ -23,6 +23,7 @@
 * [Rails forms](https://youtu.be/OuISosooElo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/15-platypodes-tracker)
 * [Rest Test: Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/16-rest-test) | [Website](https://garbage-collectors-rest-test.herokuapp.com/)
 * [Rails Forms and Associations with Farmr](https://www.youtube.com/watch?v=Ax4swAH1So8) | [code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/17-associations-farmr)
+* [Rails Forms and Associations Review Video](https://youtu.be/L0Qisscj5gs)
 
 ## Blog Presentation Schedule
 
