@@ -25,6 +25,7 @@
 * [Rails Forms and Associations with Farmr](https://www.youtube.com/watch?v=Ax4swAH1So8) | [code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/17-associations-farmr)
 * [Rails Forms and Associations Review Video](https://youtu.be/L0Qisscj5gs)
 * [Rails Pets Review](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/18-pet-review-rails)
+* [Elevator Code Nested Forms](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/19-elevator-code-nested-form)
 
 ## Blog Presentation Schedule
 
