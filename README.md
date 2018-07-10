@@ -27,6 +27,7 @@
 * [Rails Pets Review](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/18-pet-review-rails)
 * [Elevator Code Nested Forms](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/19-elevator-code-nested-form)
 * [Sessions, Cookies, Flash](https://youtu.be/9yDPQnDIAsA) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/20-sessions-cookies-flash)
+* [Authorization]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/22-authorization)
 
 ## Blog Presentation Schedule
 
