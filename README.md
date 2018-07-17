@@ -1,5 +1,5 @@
 # nyc-web-060418
- 
+
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_sdvitopdbo8qjjejcfkf71ma9k%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Lecture Code and Videos
@@ -28,6 +28,9 @@
 * [Elevator Code Nested Forms](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/19-elevator-code-nested-form)
 * [Sessions, Cookies, Flash](https://youtu.be/9yDPQnDIAsA) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/20-sessions-cookies-flash)
 * [Authorization](https://www.youtube.com/watch?v=6oOGi6psgOA) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/22-authorization)
+
+#### Module 3
+* [Introduction to Javascript (recording from previous class)](https://www.youtube.com/watch?v=dhQo5MQ7608&feature=youtu.beM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/23-introduction-to-js)
 
 ## Blog Presentation Schedule
 
