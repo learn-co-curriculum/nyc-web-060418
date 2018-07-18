@@ -34,6 +34,7 @@
 * [Lexical Scope and Closures](https://www.youtube.com/watch?v=TnFNnl9T7Yw&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/24-scope-and-closures)
 * [Functional Programming](https://www.youtube.com/watch?v=HXnYrf-qJIs&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/25-functional-programming)
 * [The JS this keyword coming soon](https://www.youtube.com/watch?v=h07mEhTrqtU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/26-this-keyword)
+* [JS Prototypical Inheritance](https://www.youtube.com/watch?v=dHUQZpXS9Wo&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/27-prototype-chain-and-oo-js)
 
 ## Blog Presentation Schedule
 
