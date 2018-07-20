@@ -35,6 +35,9 @@
 * [Functional Programming](https://www.youtube.com/watch?v=HXnYrf-qJIs&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/25-functional-programming)
 * [The JS this keyword coming soon](https://www.youtube.com/watch?v=h07mEhTrqtU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/26-this-keyword)
 * [JS Prototypical Inheritance](https://www.youtube.com/watch?v=dHUQZpXS9Wo&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/27-prototype-chain-and-oo-js)
+* [The DOM](https://www.youtube.com/watch?v=6S-VGLDabCE&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/28-the-dom)
+* [JS Events](https://www.youtube.com/watch?v=M-0AgUlkgcE&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/29-js-events)
+* [AJAX (Video coming soon)]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/30-ajax)
 
 ## Blog Presentation Schedule
 
