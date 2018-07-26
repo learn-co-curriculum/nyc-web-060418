@@ -37,7 +37,9 @@
 * [JS Prototypical Inheritance](https://www.youtube.com/watch?v=dHUQZpXS9Wo&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/27-prototype-chain-and-oo-js)
 * [The DOM](https://www.youtube.com/watch?v=6S-VGLDabCE&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/28-the-dom)
 * [JS Events](https://www.youtube.com/watch?v=M-0AgUlkgcE&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/29-js-events)
-* [AJAX (Video coming soon)](https://www.youtube.com/watch?v=c98Zi5OWlK8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/30-ajax)
+* [AJAX](https://www.youtube.com/watch?v=c98Zi5OWlK8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/30-ajax)
+* [Code Organization (Coming soon)]() | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/32-code-organization)
+* [AJAX Review](https://www.youtube.com/watch?v=P00VRAt4cws&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/34-ajax)
 
 ## Blog Presentation Schedule
 
