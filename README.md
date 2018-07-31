@@ -40,6 +40,7 @@
 * [AJAX](https://www.youtube.com/watch?v=c98Zi5OWlK8&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/30-ajax)
 * [Code Organization](https://www.youtube.com/watch?v=ZKD1FCXOwr0&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/32-code-organization)
 * [AJAX Review](https://www.youtube.com/watch?v=P00VRAt4cws&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/34-ajax)
+* [Tasklister OO Refactor](https://www.youtube.com/watch?v=qgmlE5kfLjA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/35-oo-task-lister)
 
 ## Blog Presentation Schedule
 
