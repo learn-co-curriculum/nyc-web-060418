@@ -42,6 +42,9 @@
 * [AJAX Review](https://www.youtube.com/watch?v=P00VRAt4cws&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/34-ajax)
 * [Tasklister OO Refactor](https://www.youtube.com/watch?v=qgmlE5kfLjA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/35-oo-task-lister)
 
+#### Module 4
+* [React: State, Events, and Forms](https://youtu.be/fOdJD8w54b4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/39-state-events-forms)
+
 ## Blog Presentation Schedule
 
 ## Additional Resources
