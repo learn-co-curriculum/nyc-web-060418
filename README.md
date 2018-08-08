@@ -45,7 +45,7 @@
 #### Module 4
 * [Intro to React](https://youtu.be/hCf4GLL0VfQ) 
 * [React: State & Events](https://youtu.be/XOf6XWKk_Vc)
-* [React: State, Events, and Forms](https://youtu.be/fOdJD8w54b4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/39-state-events-forms)
+* [React: State, Events, and Forms](https://youtu.be/fOdJD8w54b4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/36-state-events-forms)
 
 ## Blog Presentation Schedule
 
