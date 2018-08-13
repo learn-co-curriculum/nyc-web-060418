@@ -50,7 +50,7 @@
 * [Thinking in React](https://www.youtube.com/watch?v=OxhvVdKenTc&feature=youtu.be) [Part II](https://www.youtube.com/watch?v=9U8yLjFQ3Es&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/37-react-lightswitch)
 * [Component Lifecycle](https://youtu.be/Cx78wDQKHaM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/38-component-lifecycle)
 * [Cat Facts Review](https://youtu.be/AstX67qiiB8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/39-cat-facts)
-* [React Router](https://youtu.be/w4GPFMTyFLc) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/40-react-router)
+* [~~React Router~~ (QuickTime Error)](https://youtu.be/w4GPFMTyFLc) | [React Router](https://www.youtube.com/watch?v=zXqL1ULz1xg) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/40-react-router)
 
 ## Blog Presentation Schedule
 
