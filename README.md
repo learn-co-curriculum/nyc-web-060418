@@ -48,6 +48,8 @@
 * [React: State & Events](https://youtu.be/XOf6XWKk_Vc)
 * [React: State, Events, and Forms](https://youtu.be/fOdJD8w54b4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/36-state-events-forms)
 * [Thinking in React](https://www.youtube.com/watch?v=OxhvVdKenTc&feature=youtu.be) [Part II](https://www.youtube.com/watch?v=9U8yLjFQ3Es&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/37-react-lightswitch)
+* [Component Lifecycle](https://youtu.be/Cx78wDQKHaM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/38-component-lifecycle)
+* [Cat Facts Review](https://youtu.be/AstX67qiiB8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/39-cat-facts)
 
 ## Blog Presentation Schedule
 
