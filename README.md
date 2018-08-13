@@ -43,13 +43,14 @@
 * [Tasklister OO Refactor](https://www.youtube.com/watch?v=qgmlE5kfLjA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/35-oo-task-lister)
 
 #### Module 4
-* [Intro to React](https://youtu.be/hCf4GLL0VfQ) 
+* [Intro to React](https://youtu.be/hCf4GLL0VfQ)
 * [React: JSX & Props (Mike Cheng)](https://www.youtube.com/watch?v=7wda4_et7CM&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/35-jsx-and-props)
 * [React: State & Events](https://youtu.be/XOf6XWKk_Vc)
 * [React: State, Events, and Forms](https://youtu.be/fOdJD8w54b4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/36-state-events-forms)
 * [Thinking in React](https://www.youtube.com/watch?v=OxhvVdKenTc&feature=youtu.be) [Part II](https://www.youtube.com/watch?v=9U8yLjFQ3Es&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/37-react-lightswitch)
 * [Component Lifecycle](https://youtu.be/Cx78wDQKHaM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/38-component-lifecycle)
 * [Cat Facts Review](https://youtu.be/AstX67qiiB8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/39-cat-facts)
+* [React Router](https://youtu.be/w4GPFMTyFLc) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/40-react-router)
 
 ## Blog Presentation Schedule
 
