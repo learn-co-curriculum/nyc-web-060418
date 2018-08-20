@@ -51,7 +51,7 @@
 * [Component Lifecycle](https://youtu.be/Cx78wDQKHaM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/38-component-lifecycle)
 * [Cat Facts Review](https://youtu.be/AstX67qiiB8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/39-cat-facts)
 * [~~React Router~~ (QuickTime Error)](https://youtu.be/w4GPFMTyFLc) | [React Router](https://www.youtube.com/watch?v=zXqL1ULz1xg) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/40-react-router)
-* React JWT Auth | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/41-react-jwt-auth)
+* [React JWT Auth (part 1)](https://youtu.be/g2NhbG25akg) | Part 2 | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/41-react-jwt-auth)
 
 ## Blog Presentation Schedule
 
