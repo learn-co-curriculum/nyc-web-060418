@@ -53,6 +53,7 @@
 * [~~React Router~~ (QuickTime Error)](https://youtu.be/w4GPFMTyFLc) | [React Router](https://www.youtube.com/watch?v=zXqL1ULz1xg) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/40-react-router)
 * [React JWT Auth (part 1)](https://youtu.be/g2NhbG25akg) | [Part 2](https://youtu.be/4LZR5S4SBPA) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/41-react-jwt-auth)
 * [Higher Order Components (HOC)](https://youtu.be/9HhcPYpYmHk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/42-hoc)
+* Redux | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/43-redux)
 
 ## Blog Presentation Schedule
 
