@@ -54,6 +54,7 @@
 * [React JWT Auth (part 1)](https://youtu.be/g2NhbG25akg) | [Part 2](https://youtu.be/4LZR5S4SBPA) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/41-react-jwt-auth)
 * [Higher Order Components (HOC)](https://youtu.be/9HhcPYpYmHk) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/42-hoc)
 * [Redux (part 1)](https://youtu.be/9HEsb07kFl4) | [Part 2](https://youtu.be/SIPEho5Xia4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/43-redux)
+* [DIY Redux](https://youtu.be/XMPL-IaCyHw) | [Code (diy-redux branch)](https://github.com/hysan/birthify-fe/tree/diy-redux)
 
 ## Blog Presentation Schedule
 
