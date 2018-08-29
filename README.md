@@ -58,6 +58,7 @@
 
 #### Module 5
 * [combineReducers and thunk](https://youtu.be/rn7cY9iGWE0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/44-combine-reducers-thunk)
+* [Redux Auth Overview](https://www.youtube.com/watch?v=HuV5wU_wcBY) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/45-redux-auth) 🔒🔑
 
 ## Blog Presentation Schedule
 
