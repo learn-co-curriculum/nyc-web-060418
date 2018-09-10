@@ -59,6 +59,9 @@
 #### Module 5
 * [combineReducers and thunk](https://youtu.be/rn7cY9iGWE0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/44-combine-reducers-thunk)
 * [Redux Auth Overview](https://www.youtube.com/watch?v=HuV5wU_wcBY) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/45-redux-auth) 🔒🔑
+* [AUTHffice Hours: React/Redux Auth Overall Flow](https://www.youtube.com/watch?v=otwAzK2g_Uo) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-060418/tree/master/45-redux-auth)
+* [Error Handling in Fetch](https://www.youtube.com/watch?v=hUpWOz8PgWI) | Code is same as above ^^
+* [React Environment Variables](https://www.youtube.com/watch?v=2QemhghBjFU) | Code is same as above ^^
 
 ## Blog Presentation Schedule
 
